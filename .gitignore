@@ -1,0 +1,31 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+*.flutter-plugins
+*.flutter-plugins-dependencies
+pubspec.lock
+
+# Platform builds
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Runner.xcodeproj/**
+ios/Runner.xcworkspace/**
+macos/Flutter/ephemeral/
+linux/CMakeFiles/
+linux/flutter/ephemeral/
+windows/x64/
+windows/runner/Debug/
+windows/flutter/ephemeral/
+
+# IDE
+.idea/
+.vscode/
+.metadata
+
+# OS
+.DS_Store
+Thumbs.db
